@@ -6,6 +6,28 @@
 
 ---
 
+### Full Stack Engineer Based In The US
+
+<table>
+  <tr>
+    <td width="47.5%" valign="center">
+      <img src="https://octodex.github.com/images/universetocat.png" width="100%"/>
+    </td>
+    <td width="47.5%" valign="center">
+
+I am currently working on enhancing the `MCP's` ability to observe complex geometries. This includes expanding the `MCP` to encompass other ordinary systems like heat transfer and fluids, alongside `rapid prototyping`, and `workspace enhancements` to the public-facing code base.
+
+Ask me about my `local ai inference` journey: getting the most out of small local `ralph loops` and custom `ai harnesses`.
+
+I will occasionally post my progress as well as case studies with real ontology some of my private systems obtain.
+
+  </td>
+  </tr>
+</table>
+
+
+---
+
 ## Frontend
 <div align="left">
 
@@ -78,7 +100,11 @@ I have been programming backend systems for **2 years**, focusing on ingestion p
 
 </div>
 
-AI started as a hobby and became a way to explore systems, experimentation, and human tooling. Recently I have focused on **MCP protocols**, and one project I am especially proud of is a **Finite Element Analysis MCP**.
+AI started as a hobby and became a way to explore systems, experimentation, and human tooling. Recently I have focused on **MCP protocols**, and one project I am especially proud of is a **Finite Element Analysis MCP**. The system is not limited to 2d elements.
+
+<img width="1584" height="1207" alt="image" src="https://github.com/user-attachments/assets/c6752e7a-9f50-4598-97dc-63d778cd7ddb" />
+
+<span color="gray" align="center"> Output from a one shot prompt and image (called from claude)</span>
 
 ---
 
